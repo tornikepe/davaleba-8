@@ -38,3 +38,5 @@ console.log(c);
 
 var phones = ["Iphone", "Samsung", "Pixel", "Huawei", "Xiaomi"];
 console.log(phones);
+
+// Tornike
